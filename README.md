@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+![logo](https://user-images.githubusercontent.com/89201079/182979901-775d5130-3253-48f3-b79e-0ae01ac29729.png)
 
 Here are some ideas to get you started:
 
@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like funni
 -->
+
+
