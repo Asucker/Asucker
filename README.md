@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Anything my school teaches
 - 🤔 I’m looking for help with school work
 - 💬 Ask me about myself
-- 📫 How to reach me: Discord: Asucker#3832
+- 📫 How to reach me: Discord: Rissol#3832
 - ⚡ Fun fact: I like funni
 - 💬 Languages I can understan: Indonesian, English, Dutch, Russian
 
